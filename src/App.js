@@ -134,7 +134,7 @@ function App() {
               <BadgeCheck size={17} />
               Nairobi-born travel planning studio
             </p>
-            <h1>Trips that feel less copied, more personally mapped.</h1>
+            <h1>Kenya escapes and international holidays made easy.</h1>
             <p className="hero-copy">
               Kijani Compass designs safaris, coast breaks, city escapes, and
               group holidays around your timing, budget, and travel style, then
